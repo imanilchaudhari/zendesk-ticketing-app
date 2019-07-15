@@ -1,0 +1,17 @@
+{
+  "name": "Zendesk Ticketing App",
+  "author": {
+    "name": "Anil Chaudhari",
+    "email": "anil@proshore.eu",
+    "url": "https://proshore.eu"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": {
+    "support": {
+      "top_bar": "assets/index.html"
+    }
+  },
+  "version": "1.0",
+  "frameworkVersion": "2.0"
+}

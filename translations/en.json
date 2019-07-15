@@ -1,0 +1,8 @@
+{
+  "app": {
+    "long_description": "App to retrieve the tickets and its reviews using zendesk framework.",
+    "installation_instructions": "Find the app in the Zendesk marketplace.",
+    "short_description": "App for recent tickets and its reviews.",
+    "name": "Zendesk Ticketing App"
+  }
+}
